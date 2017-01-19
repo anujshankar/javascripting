@@ -1,2 +1,2 @@
 # javascripting
-JS -tuts
+JS -tuts First commit
