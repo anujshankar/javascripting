@@ -1,4 +1,6 @@
-function multiplyThreeNumbers(number1,number2,number3){
-    return (number1+(number2*number3));
+function mathOperation(number1,number2,number3){
+    intermediateMultiplication = nummber2*number3;
+    return (number1 + intermediateMultiplication);
 }
-console.log(multiplyThreeNumbers(53,61,67));
+
+console.log(mathOperation(53,61,67));
